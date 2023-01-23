@@ -23,3 +23,4 @@ SOFTWARE.
 In order to keep things right, here is the license of the origin:
 
 https://github.com/diehardsk/Volumio-OledUI/issues/3#event-3732766592
+https://github.com/Maschine2501/NR1-UI/blob/master/LICENSE.md
