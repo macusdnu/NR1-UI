@@ -30,13 +30,13 @@ Screen2barwidth = 152
 Screen2barLineBorder = 'white'
 Screen2barLineFill = 'black'
 Screen2barLineX = 50
-Screen2barLineThick1 = 61     #difference between both = thickness 
-Screen2barLineThick2 = 61     # 59 and 59 = 1 Pixel thick
+Screen2barLineThick1 = 61        #difference between both = thickness 
+Screen2barLineThick2 = 61        # 59 and 59 = 1 Pixel thick
 Screen2barBorder = 'white'
 Screen2barFill = 'black'
 Screen2barX = 50
-Screen2barThick1 = 59         #difference between both = thickness 
-Screen2barThick2 = 63         # 56 and 62 = 6 Pixel thick
+Screen2barThick1 = 59            #difference between both = thickness 
+Screen2barThick2 = 63            # 56 and 62 = 6 Pixel thick
 Screen2barNibbleWidth = 2
 
 #config for Spectrum
@@ -59,32 +59,32 @@ Screen22specYposNoTag = 63
 
 #_______'No-Spectrum'_____________________________________________________
 #Config TextPositions NowPlaying-/StandBy-Screen:
-Screen4text01 = 0, -4        #Artist
-Screen4text02 = 0, 16       #Title
-Screen4text06 = 132, 41       #format
-Screen4text07 = 163, 41     #samplerate
-Screen4text08 = 220, 41     #bitdepth
-Screen4text008 = 200, 41    #Webradio Bitrate
-Screen4Text0008 = 130, 41    #Weebradio Tracktype
-Screen4text28 = 120, 40       #Play/Pause Indicator
-Screen4text29 = 15, 41       #Volume Text
-Screen4text30 = 0, 39        #VolumeOn Symbol
-Screen4text31 = 0, 39        #VolumeOff Speaker symbol
-Screen4text32 = 54, 38        #VolumeOff Forbidden Symbol
+Screen4text01 = 0, -4            #Artist
+Screen4text02 = 0, 16            #Title
+Screen4text06 = 115, 41          #format
+Screen4text07 = 163, 41          #samplerate
+Screen4text08 = 220, 41          #bitdepth
+Screen4text008 = 200, 41         #Webradio Bitrate
+Screen4Text0008 = 130, 41        #Weebradio Tracktype
+Screen4text28 = 105, 40          #Play/Pause Indicator
+Screen4text29 = 15, 41           #Volume Text
+Screen4text30 = 0, 39            #VolumeOn Symbol
+Screen4text31 = 0, 39            #VolumeOff Speaker symbol
+Screen4text32 = 54, 38           #VolumeOff Forbidden Symbol
 Screen4text33 = 88, 40           #repeat symbol
 Screen4text34 = 81, 41           #repeat once one
-Screen4text35 = 104, 40           #shuffle
+Screen4text35 = 104, 40          #shuffle
 
 #"No Progress"
-Screen4text60 = 120, 50       #Play/Pause Indicator
-Screen4Text61 = 130, 51    #Weebradio Tracktype
-Screen4text62 = 200, 51    #Webradio Bitrate
+Screen4text60 = 105, 50          #Play/Pause Indicator
+Screen4Text61 = 130, 51          #Weebradio Tracktype
+Screen4text62 = 200, 51          #Webradio Bitrate
 Screen4text63 = 88, 50           #repeat symbol
 Screen4text64 = 81, 51           #repeat once one
-Screen4text65 = 104, 50           #shuffle
-Screen4text66 = 0, 49        #VolumeOn Symbol
-Screen4text67 = 0, 49        #VolumeOff Speaker symbol
-Screen4text68 = 15, 51       #Volume Text
+Screen4text65 = 104, 50          #shuffle
+Screen4text66 = 0, 49            #VolumeOn Symbol
+Screen4text67 = 0, 49            #VolumeOff Speaker symbol
+Screen4text68 = 15, 51           #Volume Text
 
 #configuration of the duration and playtime (textbox-) positions
 Screen4ActualPlaytimeText = 1, 54
@@ -95,22 +95,22 @@ Screen4barwidth = 152
 Screen4barLineBorder = 'white'
 Screen4barLineFill = 'black'
 Screen4barLineX = 50
-Screen4barLineThick1 = 59     #difference between both = thickness 
-Screen4barLineThick2 = 59     # 59 and 59 = 1 Pixel thick
+Screen4barLineThick1 = 59       #difference between both = thickness 
+Screen4barLineThick2 = 59       # 59 and 59 = 1 Pixel thick
 Screen4barBorder = 'white'
 Screen4barFill = 'black'
 Screen4barX = 50
-Screen4barThick1 = 57         #difference between both = thickness 
-Screen4barThick2 = 61         # 56 and 62 = 6 Pixel thick
+Screen4barThick1 = 57           #difference between both = thickness 
+Screen4barThick2 = 61           # 56 and 62 = 6 Pixel thick
 Screen4barNibbleWidth =2
 
 #_______'Modern'_____________________________________________________
 #Config TextPositions NowPlaying-/StandBy-Screen:
-Screen5text01 = 0, 46        #Artist + Song
-Screen5text06 = 74, 39       #format
-Screen5text07 = 106, 39     #samplerate
-Screen5text08 = 156, 39     #bitdepth
-Screen5text28 = 96, 37       #Play/Pause Indicator
+Screen5text01 = 0, 46            #Artist + Song
+Screen5text06 = 74, 39           #format
+Screen5text07 = 106, 39          #samplerate
+Screen5text08 = 156, 39          #bitdepth
+Screen5text28 = 96, 37           #Play/Pause Indicator
 
 #configuration of the duration and playtime (textbox-) positions
 Screen5ActualPlaytimeText = 1, 0
@@ -121,13 +121,13 @@ Screen5barwidth = 256
 Screen5barLineBorder = 'white'
 Screen5barLineFill = 'white'
 Screen5barLineX = 0
-Screen5barLineThick1 = 32     #difference between both = thickness 
-Screen5barLineThick2 = 32     # 59 and 59 = 1 Pixel thick
-Screen5barBorder = 'white'
-Screen5barFill = 'black'
-Screen5barX = 0
-Screen5barThick1 = 30         #difference between both = thickness 
-Screen5barThick2 = 34         # 56 and 62 = 6 Pixel thick
+Screen5barLineThick1 = 32           #difference between both = thickness 
+Screen5barLineThick2 = 32           # 59 and 59 = 1 Pixel thick
+Screen5barBorder = 'white'  
+Screen5barFill = 'black'    
+Screen5barX = 0 
+Screen5barThick1 = 30               #difference between both = thickness 
+Screen5barThick2 = 34               # 56 and 62 = 6 Pixel thick
 Screen5barNibbleWidth = 2
 
 #config for Spectrum
@@ -210,12 +210,7 @@ Screen7barLineThick2 = 26     # 59 and 59 = 1 Pixel thick
 Screen7barBorder = 'white'
 Screen7barFill = 'black'
 Screen7barX = 0
-Screen7barThick1 = 24         #difference between both = thickness 
-Screen7barThick2 = 28         # 56 and 62 = 6 Pixel thick
-Screen7barNibbleWidth = 2
-
-#_______'VU-Meter-Bar'_____________________________________________________
-#Config TextPositions NowPlaying-/StandBy-Screen:
+Screen7barThick1 = 24         #difference between both = thickness Screen4text60 = 120, 50       #Play/Pause Indicator
 Screen8text01 = 60, -4        #Artist
 Screen8text02 = 60, 11       #Title
 Screen8text11 = 60, -4        #Artist
@@ -238,28 +233,7 @@ Screen8barLineThick1 = 34     #difference between both = thickness
 Screen8barLineThick2 = 34     # 59 and 59 = 1 Pixel thick
 Screen8barBorder = 'white'
 Screen8barFill = 'black'
-Screen8barX = 40
-Screen8barThick1 = 32         #difference between both = thickness 
-Screen8barThick2 = 36         # 56 and 62 = 6 Pixel thick
-Screen8barNibbleWidth = 2
-
-#config for leftVU
-Screen8leftVUDistance = 22  #startpoint oft the VU from the left side of the screen
-Screen8leftVUWide1 = 7      #spacing/width of each value -> 32max value from cava * 7 = 224pixels width
-Screen8leftVUWide2 = 4      #width of each Value from cava ->   Value <= Screen8leftVUWide1 -> results in Spaces between / Value >= Screen8leftVUWide1 -> continous Bar 
-Screen8leftVUYpos1 = 40
-Screen8leftVUYpos2 = 46
-
-#config for rightVU
-Screen8rightVUDistance = 22
-Screen8rightVUWide1 = 7
-Screen8rightVUWide2 = 4
-Screen8rightVUYpos1 = 56
-Screen8rightVUYpos2 = 62
-
-#config for "Peak-Hold"
-Screen8fallingTime = 0.3      # lower = faster drop / higher = longer hold time
-Screen8PeakWidth = 2          # wdith of the peak indicator in pixels
+Screen8barX = Screen4text60 = 120, 50       #Play/Pause Indicator
 
 #config for gradient color of the VU
 Screen8specGradstart = 80
@@ -269,8 +243,7 @@ Screen8specGradSamples = 32
 #___________________________________________________________________
 #Config TextPositions Media-Library-Info-Screen:
 oledtext10 = 138, 2      #Number of Artists
-oledtext11 = 138, 15     #Number of Albums
-oledtext12 = 138, 28     #Number of Songs
+oledtext11 = 138, 15     #Number of AlbumsScreen4text60 = 120, 50       #Play/Pause Indicator
 oledtext13 = 138, 41     #Summary of duration
 oledtext14 = 14, 2       #Text for Artists
 oledtext15 = 14, 15      #Text for Albums
@@ -283,17 +256,7 @@ oledtext21 = 0, 15       #icon for Albums
 oledtext22 = 0, 28       #icon for Songs
 oledtext23 = 0, 41       #icon for duration
 
-#___________________________________________________________________
-#configuration Menu-Screen:
-oledListEntrys = 4
-oledEmptyListText = 'no items..'
-oledEmptyListTextPosition = 0, 4
-oledListTextPosX = 2
-oledListTextPosY = 16    #height of each Entry (4x16 = 64)
-
-#___________________________________________________________________
-#config for Text:
-oledArt = 'Interpreten :'  #sets the Artists-text for the MediaLibrarayInfo
+#___________________________________________________________________Screen4text60 = 120, 50       #Play/Pause Indicator
 oledAlb = 'Alben :'        #sets the Albums-text for the MediaLibrarayInfo
 oledSon = 'Songs :'        #sets the Songs-text for the MediaLibrarayInfo
 oledPla = 'Playtime :'     #sets the Playtime-text for the MediaLibrarayInfo
@@ -330,3 +293,4 @@ oledMenuHighlightColor = (255, 255, 255)
 oledMenuHighlightBackGround = (0, 0, 0)
 oledMenuNotSelectedColor = (80, 80, 80)
 oledMenuNotSelectedBackground = (0, 0, 0)
+Screen4text60 = 105, 50       #Play/Pause IndicatorScreen4text60 = 120, 50       #Play/Pause Indicator
